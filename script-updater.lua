@@ -1,4 +1,4 @@
--- @version: 1.0
+-- @version: 1.1
 -- @author: kotten
 local SCRIPT_URL = "https://raw.githubusercontent.com/KottenFAC/plaguecheat-luas/refs/heads/main/script-updater.lua"
 local SCRIPT_PATH = "C:\\plaguecheat.cc\\" .. Cheat.GetScriptName()
